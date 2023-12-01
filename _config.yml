@@ -4,3 +4,7 @@ logo: /images/2.png
 #show_downloads: true
 theme: jekyll-theme-minimal
 
+## Contact
+
+
+[![Email Me](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
