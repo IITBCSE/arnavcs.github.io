@@ -12,6 +12,17 @@
 
 - Qualified UGC-NET for Assistant Professor in the subject of CSE (2017)
 ---
+## Projects
+
+1. **CS 725 - Strokes Uncovered: Machine Learning Exploration and Predictive Insights**
+   - Under the guidance of Professor Sunita Sarawagi.
+   - [GitHub URL](https://github.com/arnavcse/Project-725)
+    
+
+2. **CS 626 - Preliminary Analysis on Research paper "Re-contextualizing Fairness in NLP: The Case of India"**
+   - Under the guidance of Professor Pushpak Bhattacharyya.
+   - [GitHub URL](https://github.com/arnavcse/NLP-Project)
+---
 ## Work Experience
 
 - **Teaching Assistant (TA)**
