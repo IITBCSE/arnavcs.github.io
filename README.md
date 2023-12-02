@@ -2,7 +2,7 @@
 ---
 
 ## Education Details
-<img src="https://i.imgur.com/reyEMVI.png" alt="Alt text" width="1800"/>
+<img src="https://i.imgur.com/reyEMVI.png" alt="Alt text" width="2800"/>
 
 ---
 ## Work Experience
