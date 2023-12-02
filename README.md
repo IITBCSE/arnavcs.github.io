@@ -1,8 +1,11 @@
 ## Technical Skills: Python,  C, C++
 ---
-
 ## Education Details
-<img src="https://i.imgur.com/reyEMVI.png" alt="Alt text" width="2800"/>
+
+| Degree             | University                | College                      | Year        | Percentage |
+|--------------------|---------------------------|------------------------------|-------------|------------|
+| M.Tech(CSE - TA)   | IIT BOMBAY                | IIT Bombay                   | 2023 - 2025 | NA         |
+| M.Tech (CSE)       | Punjab Technical University| Chandigarh Engineering College| 2014        | 77.59      |
 
 ---
 ## Work Experience
