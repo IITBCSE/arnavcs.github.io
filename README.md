@@ -2,7 +2,8 @@
 ---
 
 ## Education Details
-![Alt text](https://i.imgur.com/reyEMVI.png)
+![Alt text](https://i.imgur.com/reyEMVI.png){:width="400px"}
+
 
 #### Work Experience
 
