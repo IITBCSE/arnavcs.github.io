@@ -1,6 +1,7 @@
-## Technical Skills: Python,  C, C++
+## Technical Skills 
+- Python, C, C++
 ---
-## Education Details
+## ***Education Details***
 
 | Degree             | University                | College                      | Year        | Percentage |
 |--------------------|---------------------------|------------------------------|-------------|------------|
@@ -8,9 +9,10 @@
 | M.Tech (CSE)       | Punjab Technical University| Chandigarh Engineering College| 2014        | 77.59      |
 
 ---
-## Achievement
+## ***Achievement***
 
 - Qualified UGC-NET for Assistant Professor in the subject of CSE (2017)
+  
 ---
 ## Projects
 
