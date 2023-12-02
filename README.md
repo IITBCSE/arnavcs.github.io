@@ -21,7 +21,7 @@
 
 ## Projects
 
-1. **CS 725 - Strokes Uncovered: Machine Learning Exploration and Predictive Insights**
+1. **CS 725 - 🧠 Strokes Uncovered: Machine Learning Exploration and Predictive Insights**
    - Under the guidance of Professor Sunita Sarawagi.
    - [GitHub URL](https://github.com/arnavcse/Project-725)
 
