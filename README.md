@@ -4,7 +4,7 @@
 
 | Degree             | University                | College                      | Year        | Percentage |
 |--------------------|---------------------------|------------------------------|-------------|------------|
-| M.Tech(CSE - TA)   | IIT BOMBAY                | IIT Bombay                   | 2023 - 2025 | NA         |
+| M.Tech (CSE - TA)   | IIT BOMBAY                | IIT Bombay                   | 2023 - 2025 | NA         |
 | M.Tech (CSE)       | Punjab Technical University| Chandigarh Engineering College| 2014        | 77.59      |
 
 ---
