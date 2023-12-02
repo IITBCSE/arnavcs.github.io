@@ -25,6 +25,15 @@
    - Under the guidance of Professor Pushpak Bhattacharyya.
    - [GitHub URL](https://github.com/arnavcse/NLP-Project)
 ---
+## Publication
+
+**Title:**
+An Advance Algorithm for Precision Agriculture Using Wireless Sensor Network
+
+**URL:**
+[Read Publication](https://www.researchgate.net/publication/274678567_AN_ADVANCE_ALGORITHM_FOR_PRECISION_AGRICULTURE_USING_WIRELESS_SENSOR_NETWORK)
+
+---
 ## Work Experience
 
 - **Teaching Assistant (TA)**
