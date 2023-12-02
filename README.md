@@ -8,6 +8,10 @@
 | M.Tech (CSE)       | Punjab Technical University| Chandigarh Engineering College| 2014        | 77.59      |
 
 ---
+## Achievement
+
+- Qualified UGC-NET for Assistant Professor in the subject of CSE (2017)
+---
 ## Work Experience
 
 - **Teaching Assistant (TA)**
