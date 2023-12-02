@@ -2,10 +2,10 @@
 ---
 
 ## Education Details
-![Alt text](https://i.imgur.com/reyEMVI.png){:width="400px"}
+<img src="https://i.imgur.com/reyEMVI.png" alt="Alt text" width="400"/>
 
-
-#### Work Experience
+---
+## Work Experience
 
 - **Teaching Assistant (TA)**
   - **Course:** CS 101 - Computer Programming & Utilization
