@@ -2,7 +2,7 @@
 
 - Python, C, C++
 
----
+----
 
 ## Education Details
 
